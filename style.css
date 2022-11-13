@@ -1,0 +1,16 @@
+.active {
+  color: green;
+  font-weight: bold;
+}
+.inactive {
+  color: red;
+  font-weight: 100;
+}
+
+.output {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}

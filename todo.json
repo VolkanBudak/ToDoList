@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Workout",
+    "status": false
+  },
+  {
+    "name": "Shower",
+    "status": false
+  },
+  {
+    "name": "Dinner",
+    "status": false
+  },
+  {
+    "name": "Study",
+    "status": false
+  },
+
+  {
+    "name": "Sleep",
+    "status": true
+  }
+]
